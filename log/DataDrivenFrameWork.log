@@ -1,0 +1,108 @@
+2023-05-21 11:02:11 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:02:11 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 102, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:02:11 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时2分11秒.png
+2023-05-21 11:02:21 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:02:21 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 102, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:02:21 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时2分21秒.png
+2023-05-21 11:02:31 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:02:31 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 102, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:02:32 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时2分31秒.png
+2023-05-21 11:02:58 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:02:58 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 102, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:02:58 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时2分58秒.png
+2023-05-21 11:03:08 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:03:08 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 102, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:03:08 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时3分8秒.png
+2023-05-21 11:03:18 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:03:18 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 102, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:03:18 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时3分18秒.png
+2023-05-21 11:41:18 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:41:18 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 106, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:41:18 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时41分18秒.png
+2023-05-21 11:41:28 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:41:28 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 106, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:41:28 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时41分28秒.png
+2023-05-21 11:41:38 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:41:38 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 106, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:41:39 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时41分38秒.png
+2023-05-21 11:42:06 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:42:06 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 106, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:42:06 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时42分6秒.png
+2023-05-21 11:42:16 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:42:16 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 106, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:42:16 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时42分16秒.png
+2023-05-21 11:42:26 Log.py[line:26] INFO 异常的信息：
+2023-05-21 11:42:26 Log.py[line:26] INFO 异常的堆栈信息：Traceback (most recent call last):
+  File "E:/study/demo/126mail_test_proj/Script/Main.py", line 106, in <module>
+    create_contact(driver,name,email,mobile,star,other_info,assert_word)
+  File "E:\study\demo\126mail_test_proj\Action\Action.py", line 46, in create_contact
+    assert assert_word in driver.page_source
+AssertionError
+
+2023-05-21 11:42:26 Log.py[line:26] INFO 断言异常时候的截屏路径：E:\study\demo\126mail_test_proj\ScreenShot\2023年\5月\21日\11时42分26秒.png
